@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm always working on a ton of stuff, software and non software.
+
+Currently I'm focused on two software projects. If anyone is reading at all, stay tuned!
+
+Dunno what else to write in this README. 
+
 <!--
 **alababaju/alababaju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
